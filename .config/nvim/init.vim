@@ -19,4 +19,5 @@ call plug#begin('~/.vim/plugged')
 " List plugins here as Plug 'repo/name'
 Plug 'zxqfl/tabnine-vim'
 Plug 'sheerun/vim-polyglot'
+Plug 'dense-analysis/ale'
 call plug#end()
